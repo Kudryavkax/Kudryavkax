@@ -1,7 +1,7 @@
 # Hello There, I'm Mitchell Ryu Sopany
 ### You can call me Ryu or by my nickname Kudryavka
 
-#### I'm a 🏫Fresh Graduate Student focusing on Computer Science and searching ways to improve my skills
+#### I'm a Software Engineer focusing on Computer Science and searching ways to improve my skills
 #### Programming language i've used and improving right now include:
 - C++, C#
 - Java
